@@ -9,7 +9,6 @@
 zjh1687/zjh1687 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![SeungCheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjh1687&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 안녕하세요, Front-End 개발자 김승철입니다.
